@@ -172,3 +172,6 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
+catboost_info
+*.zip
+result
